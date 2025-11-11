@@ -15,4 +15,4 @@ const sendInvite = (...friends: string[]) => {
     console.log(`send invite to my all friends: ${friend}`)
   );
 };
-sendInvite("hujaifa", "shanto", "kabbo");
+sendInvite("hujaifa", "shanto", "kabbo");     
